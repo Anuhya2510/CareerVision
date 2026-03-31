@@ -1,0 +1,47 @@
+# ─── CareerShield AI – Root .gitignore ──────────────────────────────────────
+# This file covers both /client and /server directories.
+
+# ── Environment variables (CRITICAL – never commit) ──────────────────────────
+**/.env
+**/.env.local
+**/.env.development
+**/.env.development.local
+**/.env.test.local
+**/.env.production
+**/.env.production.local
+
+# ── Dependencies ─────────────────────────────────────────────────────────────
+**/node_modules/
+
+# ── Build outputs ─────────────────────────────────────────────────────────────
+client/dist/
+client/.vite/
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+**/*.log
+**/logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ── File uploads ─────────────────────────────────────────────────────────────
+server/uploads/
+server/temp/
+
+# ── OS / Editor ──────────────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.idea/
+.vscode/
+*.suo
+*.sw?
+
+# ── Testing / Coverage ───────────────────────────────────────────────────────
+coverage/
+.nyc_output/
+*.tsbuildinfo
