@@ -71,36 +71,36 @@ CareerShield-AI/
 
 <table>
   <tr>
-    <td><img src="Screenshots/1.png" width="250"/></td>
-    <td><img src="Screenshots/2.png" width="250"/></td>
+    <td><img src="ScreenShots/1.png" width="250"/></td>
+    <td><img src="ScreenShots/2.png" width="250"/></td>
   </tr>
   <tr>
-    <td><img src="Screenshots/3.png" width="250"/></td>
-    <td><img src="Screenshots/4.png" width="250"/></td>
+    <td><img src="ScreenShots/3.png" width="250"/></td>
+    <td><img src="ScreenShots/4.png" width="250"/></td>
   </tr>
   <tr>
-    <td><img src="Screenshots/5.png" width="250"/></td>
-    <td><img src="Screenshots/6.png" width="250"/></td>
+    <td><img src="ScreenShots/5.png" width="250"/></td>
+    <td><img src="ScreenShots/6.png" width="250"/></td>
   </tr>
   <tr>
-    <td><img src="Screenshots/7.png" width="250"/></td>
-    <td><img src="Screenshots/8.png" width="250"/></td>
+    <td><img src="ScreenShots/7.png" width="250"/></td>
+    <td><img src="ScreenShots/8.png" width="250"/></td>
   </tr>
   <tr>
-    <td><img src="Screenshots/9.png" width="250"/></td>
-    <td><img src="Screenshots/10.png" width="250"/></td>
+    <td><img src="ScreenShots/9.png" width="250"/></td>
+    <td><img src="ScreenShots/10.png" width="250"/></td>
   </tr>
   <tr>
-    <td><img src="Screenshots/11.png" width="250"/></td>
-    <td><img src="Screenshots/12.png" width="250"/></td>
+    <td><img src="ScreenShots/11.png" width="250"/></td>
+    <td><img src="ScreenShots/12.png" width="250"/></td>
   </tr>
   <tr>
-    <td><img src="Screenshots/13.png" width="250"/></td>
-    <td><img src="Screenshots/14.png" width="250"/></td>
+    <td><img src="ScreenShots/13.png" width="250"/></td>
+    <td><img src="ScreenShots/14.png" width="250"/></td>
   </tr>
   <tr>
-    <td><img src="Screenshots/15.png" width="250"/></td>
-    <td><img src="Screenshots/16.png" width="250"/></td>
+    <td><img src="ScreenShots/15.png" width="250"/></td>
+    <td><img src="ScreenShots/16.png" width="250"/></td>
   </tr>
 </table>
 
