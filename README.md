@@ -69,17 +69,40 @@ CareerShield-AI/
 
 ### Application Preview
 
-
-| | |
-|---|---|
-| ![](ScrrenShots/1.png) | ![](ScreenShots/2.png) |
-| ![](ScrrenShots/3.png) | ![](ScreenShots/4.png) |
-| ![](ScrrenShots/5.png) | ![](ScreenShots/6.png) |
-| ![](ScrrenShots/7.png) | ![](ScreenShots/8.png) |
-| ![](ScrrenShots/9.png) | ![](ScreenShots/10.png) |
-| ![](ScrrenShots/11.png) | ![](ScreenShots/12.png) |
-| ![](ScrrenShots/13.png) | ![](ScreenShots/14.png) |
-| ![](ScrrenShots/15.png) | ![](ScreenShots/16.png) |
+<table>
+  <tr>
+    <td><img src="Screenshots/1.png" width="250"/></td>
+    <td><img src="Screenshots/2.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/3.png" width="250"/></td>
+    <td><img src="Screenshots/4.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/5.png" width="250"/></td>
+    <td><img src="Screenshots/6.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/7.png" width="250"/></td>
+    <td><img src="Screenshots/8.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/9.png" width="250"/></td>
+    <td><img src="Screenshots/10.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/11.png" width="250"/></td>
+    <td><img src="Screenshots/12.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/13.png" width="250"/></td>
+    <td><img src="Screenshots/14.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/15.png" width="250"/></td>
+    <td><img src="Screenshots/16.png" width="250"/></td>
+  </tr>
+</table>
 
 ---
 ## ⚡ Quick Start
