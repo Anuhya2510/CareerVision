@@ -64,7 +64,24 @@ CareerShield-AI/
 | 💬 **Boss Chatbot** | Direct, honest Shield AI with voice replies, typing animation, quick buttons |
 
 ---
+---
+## 📸 Screenshots
 
+### Application Preview
+
+
+| | |
+|---|---|
+| ![](ScrrenShots/1.png) | ![](ScreenShots/2.png) |
+| ![](ScrrenShots/3.png) | ![](ScreenShots/4.png) |
+| ![](ScrrenShots/5.png) | ![](ScreenShots/6.png) |
+| ![](ScrrenShots/7.png) | ![](ScreenShots/8.png) |
+| ![](ScrrenShots/9.png) | ![](ScreenShots/10.png) |
+| ![](ScrrenShots/11.png) | ![](ScreenShots/12.png) |
+| ![](ScrrenShots/13.png) | ![](ScreenShots/14.png) |
+| ![](ScrrenShots/15.png) | ![](ScreenShots/16.png) |
+
+---
 ## ⚡ Quick Start
 
 ### Prerequisites
