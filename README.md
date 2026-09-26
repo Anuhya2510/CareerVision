@@ -119,8 +119,8 @@ CareerShield-AI/
 
 ```bash
 # If cloning from git:
-git clone https://github.com/your-username/careershield-ai.git
-cd careershield-ai
+git clone https://github.com/your-username/careerVision.git
+cd careerVision
 
 # Or just extract the ZIP and cd into it
 ```
