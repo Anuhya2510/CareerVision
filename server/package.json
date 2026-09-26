@@ -1,7 +1,7 @@
 {
-  "name": "careershield-server",
+  "name": "careervision-server",
   "version": "1.0.0",
-  "description": "CareerShield AI – Express Backend",
+  "description": "CareerVision – Express Backend",
   "private": true,
   "main": "server.js",
   "scripts": {

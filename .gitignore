@@ -1,4 +1,4 @@
-# ─── CareerShield AI – Root .gitignore ──────────────────────────────────────
+# ─── Careervision AI – Root .gitignore ──────────────────────────────────────
 # This file covers both /client and /server directories.
 
 # ── Environment variables (CRITICAL – never commit) ──────────────────────────
@@ -9,6 +9,7 @@
 **/.env.test.local
 **/.env.production
 **/.env.production.local
+!**/.env.examplez
 
 # ── Dependencies ─────────────────────────────────────────────────────────────
 **/node_modules/

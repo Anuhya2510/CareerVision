@@ -28,7 +28,7 @@ app.use("/api/", limiter);
 
 // ── Database ──────────────────────────────────────────────────────────────────
 mongoose
-  .connect(process.env.MONGODB_URI || "mongodb://localhost:27017/careershield")
+  .connect(process.env.MONGODB_URI || "mongodb://localhost:27017/careervision")
   .then(() => console.log("✅ MongoDB connected"))
   .catch((err) => console.error("❌ MongoDB error:", err));
 
@@ -42,7 +42,7 @@ app.use("/api/career", careerRoutes);
 app.use("/api/chatbot", chatbotRoutes);
 app.use("/api/ai", aiRoutes);
 
-app.get("/api/health", (req, res) => res.json({ status: "ok", message: "CareerShield API running" }));
+app.get("/api/health", (req, res) => res.json({ status: "ok", message: "Careervision API running" }));
 
 // ── Error Handler ─────────────────────────────────────────────────────────────
 app.use((err, req, res, next) => {

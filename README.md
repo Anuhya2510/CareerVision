@@ -1,4 +1,4 @@
-# CareerShield AI 🛡️
+# CareerVision 🛡️
 
 > **Build Smart Careers. Stay Safe from Scams.**
 

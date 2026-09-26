@@ -1,4 +1,4 @@
-// ─── CAREERSHIELD AI — UPGRADED SCAM RADAR ────────────────────────────────────
+// ─── CAREERVISION — UPGRADED SCAM RADAR ────────────────────────────────────
 // Full scam detection engine with multi-input, animated pipeline, explainable AI
 
 import { useState, useRef, useCallback, useEffect } from "react";

@@ -1,7 +1,7 @@
 {
-  "name": "careershield-client",
+  "name": "careervision-client",
   "version": "1.0.0",
-  "description": "CareerShield AI – React Frontend",
+  "description": "CareerVision – React Frontend",
   "private": true,
   "scripts": {
     "dev": "vite",
